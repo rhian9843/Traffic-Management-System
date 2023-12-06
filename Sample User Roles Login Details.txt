@@ -1,0 +1,26 @@
+Sample Login Details
+
+Traffic Police Admin:
+
+Email: stfmssample@gmail.com
+Password: cha123456
+
+
+Motor Traffic Department:
+
+Email: stfmssample@gmail.com
+Password: cha123456
+
+
+Traffic Police Officer:
+
+Pid: P55555
+Password: cha123456
+
+
+Driver:
+
+License: B4500800
+Password: cha123456
+
+
