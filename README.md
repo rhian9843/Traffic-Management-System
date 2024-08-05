@@ -1,4 +1,4 @@
-# 2.2-Project-Smart-Traffic-Fine-Management-System
+# Traffic Management System
 
 Generally, we know that road traffic violations are occurring while driving on the road. If there is a violation caught by the traffic police officers, they will definitely make a fine according to the violation. So, we know that this process is based on paper works, a manual paying system, and a temporary driver has to hand over the license to a police officer and this process takes more time. Therefore, we have proposed our system to make it smart other than using the normal process. 
 
